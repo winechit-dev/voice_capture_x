@@ -3,5 +3,49 @@
     "counterAppBarTitle": "Contador",
     "@counterAppBarTitle": {
         "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "voiceCaptureTitle": "Captura de Voz",
+    "@voiceCaptureTitle": {
+        "description": "Título para la página de Captura de Voz"
+    },
+    "statusRecording": "Grabando...",
+    "@statusRecording": {
+        "description": "Texto de estado cuando la grabación está en progreso"
+    },
+    "statusProcessing": "Procesando...",
+    "@statusProcessing": {
+        "description": "Texto de estado cuando se está procesando la grabación"
+    },
+    "statusPlaying": "Reproduciendo",
+    "@statusPlaying": {
+        "description": "Texto de estado cuando se está reproduciendo una grabación"
+    },
+    "statusReady": "Listo para Grabar",
+    "@statusReady": {
+        "description": "Texto de estado cuando está listo para grabar"
+    },
+    "holdToTalk": "Mantener para Hablar",
+    "@holdToTalk": {
+        "description": "Texto en el botón de pulsar para hablar"
+    },
+    "release": "Soltar",
+    "@release": {
+        "description": "Texto mostrado al grabar para indicar que el usuario debe soltar"
+    },
+    "noRecordings": "No hay grabaciones aún. Mantén presionado el botón para grabar.",
+    "@noRecordings": {
+        "description": "Mensaje mostrado cuando no hay grabaciones"
+    },
+    "duration": "Duración",
+    "@duration": {
+        "description": "Etiqueta para la duración de la grabación"
+    },
+    "errorOccurred": "Ocurrió un error",
+    "@errorOccurred": {
+        "description": "Mensaje de error genérico"
+    },
+    "dismiss": "Descartar",
+    "@dismiss": {
+        "description": "Texto del botón para descartar error"
     }
 }

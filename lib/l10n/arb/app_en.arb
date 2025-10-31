@@ -3,5 +3,49 @@
     "counterAppBarTitle": "Counter",
     "@counterAppBarTitle": {
         "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "voiceCaptureTitle": "Voice Capture",
+    "@voiceCaptureTitle": {
+        "description": "Title for the Voice Capture page"
+    },
+    "statusRecording": "Recording...",
+    "@statusRecording": {
+        "description": "Status text when recording is in progress"
+    },
+    "statusProcessing": "Processing...",
+    "@statusProcessing": {
+        "description": "Status text when processing the recording"
+    },
+    "statusPlaying": "Playing",
+    "@statusPlaying": {
+        "description": "Status text when playing a recording"
+    },
+    "statusReady": "Ready to Record",
+    "@statusReady": {
+        "description": "Status text when ready to record"
+    },
+    "holdToTalk": "Hold to Talk",
+    "@holdToTalk": {
+        "description": "Text on the push-to-talk button"
+    },
+    "release": "Release",
+    "@release": {
+        "description": "Text shown when recording to indicate user should release"
+    },
+    "noRecordings": "No recordings yet. Press and hold the button to record.",
+    "@noRecordings": {
+        "description": "Message shown when there are no recordings"
+    },
+    "duration": "Duration",
+    "@duration": {
+        "description": "Label for recording duration"
+    },
+    "errorOccurred": "An error occurred",
+    "@errorOccurred": {
+        "description": "Generic error message"
+    },
+    "dismiss": "Dismiss",
+    "@dismiss": {
+        "description": "Button text to dismiss error"
     }
 }
